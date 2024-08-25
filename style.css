@@ -274,10 +274,12 @@ body {
     width: 50%;
     text-align: center;
     margin-left: 0;
+    position: relative;
   }
 
   .prizeDraw__container{
     text-align: center;
     margin-left: 0;
+    position: relative;
   }
 }
